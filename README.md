@@ -8,7 +8,7 @@ A fully responsive and visually appealing portfolio website built using HTML and
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](https://github.com/Abhii3107/HTML_CSS-Portfolio/blob/main/images/placphoto.JPG)
+![Portfolio Screenshot](https://github.com/Abhii3107/HTML_CSS-Portfolio/blob/main/images/Screenshot.JPG)
 
 
 ## 🛠️ Built With
